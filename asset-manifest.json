@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.8737d42c.css",
+    "main.js": "/React_Project/static/js/main.eaad4eef.js",
+    "static/media/Space.mp4": "/React_Project/static/media/Space.217bc138c2eb8d98fc50.mp4",
+    "static/media/moon.jpg": "/React_Project/static/media/moon.92d6bd5aa0b83fb9e402.jpg",
+    "static/media/Earth.jpg": "/React_Project/static/media/Earth.62f2d004a6aed3cfdec6.jpg",
+    "static/media/pod.jpg": "/React_Project/static/media/pod.1d992f8dae4c45784efd.jpg",
+    "index.html": "/React_Project/index.html",
+    "main.8737d42c.css.map": "/React_Project/static/css/main.8737d42c.css.map",
+    "main.eaad4eef.js.map": "/React_Project/static/js/main.eaad4eef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8737d42c.css",
+    "static/js/main.eaad4eef.js"
+  ]
+}
